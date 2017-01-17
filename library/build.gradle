@@ -37,7 +37,8 @@ android {
 
 def siteUrl = "https://github.com/east11210/SectorProgressView"
 def gitUrl = "https://github.com/east11210/SectorProgressView.git"
-group = "com.godimage.sectorprogressview"
+group = "com.godimage.3pp"
+archivesBaseName = "sector-progress-view"
 
 install {
     repositories.mavenInstaller {
